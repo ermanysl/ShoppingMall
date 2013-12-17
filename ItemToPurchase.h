@@ -7,7 +7,7 @@
 * @file ItemToPurchase.h 
 * @brief Abstract Item class
 *         this header file will contain all required definitions and
-*        basic functions related with abstract Item class.
+*        basic functions related with abstract Item class .
 *
 * @author Erman Yesil
 *
